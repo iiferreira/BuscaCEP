@@ -1,4 +1,4 @@
-# 📦 ViaCEP App — SwiftUI + TCA
+# 📦 BuscaCEP App — SwiftUI + TCA
 
 Aplicativo iOS desenvolvido em **SwiftUI** utilizando **The Composable Architecture (TCA)** para gerenciamento de estado e **Swift Concurrency** para chamadas assíncronas.  
 O app consome a **API ViaCEP** para buscar informações de endereço a partir de um CEP brasileiro.
