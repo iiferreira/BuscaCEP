@@ -43,6 +43,7 @@ struct CepFeature: Reducer {
         
             case .clearCepAddressButtonTapped:
                 state.cepAddress = ""
+                state.screenState = .idle
                 return .none
             case .fetchCepButtonTapped:
                 state.screenState = .loading
